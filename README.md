@@ -1,48 +1,48 @@
-<h1 align="center">Hola 👋, soy Isai</h1>
-<h3 align="center">Un apasionado Ingeniero de Nube y Datos</h3>
+<h1 align="center">Hi there 👋, I'm Isai!</h1>
+<h3 align="center">A passionate Cloud & Data Engineer</h3>
 
 <p align="center">
-    <a href="https://github.com/tu-usuario-de-github" target="_blank">
+    <a href="https://github.com/your-github-username" target="_blank">
         <img alt="GitHub followers" src="https://img.shields.io/github/followers/Isai?style=social" />
     </a>
-    <a href="https://github.com/tu-usuario-de-github" target="_blank">
+    <a href="https://github.com/your-github-username" target="_blank">
         <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Isai?style=social" />
     </a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Isai.repoName" alt="Visitor" />
 </p>
 
-## Sobre mí :
+## About Me :
 
-- 🏢 Actualmente trabajo como **Ingeniero de Datos y Nube**, combinando mis habilidades en Ciencia de Datos con prácticas DevOps.
-- 👨‍💻 Me especializo en **Google Cloud Platform (GCP)** y la orquestación de algoritmos de Inteligencia Artificial.
-- ⚙️ Mi trabajo incluye la gestión de seguridad en la nube, la automatización con **Apache Airflow** y la creación de pipelines con **Jenkins**.
-- 🌱 Sigo aprendiendo y profundizando en **C++, Java y SAS**.
-- ⚡ **Dato Curioso**: Me fascina encontrar patrones, tanto en los datos como en la vida cotidiana.
+- 🏢 I am currently working as a **Data & Cloud Engineer**, combining my Data Science skills with DevOps practices.
+- 👨‍💻 I specialize in **Google Cloud Platform (GCP)** and the orchestration of Artificial Intelligence algorithms.
+- ⚙️ My work includes managing cloud security, automation with **Apache Airflow**, and building pipelines with **Jenkins**.
+- 🌱 I continue to learn and am deepening my knowledge in **C++, Java, and SAS**.
+- ⚡ **Fun Fact**: I'm fascinated by finding patterns, both in data and in everyday life.
 
 <br>
 
-## Conecta conmigo ☕ :
+## Connect with me ☕ :
 
 <br>
 
 <p align="left">
-    <a href="URL-a-tu-perfil-de-linkedin" target="_blank">
+    <a href="URL-to-your-linkedin-profile" target="_blank">
         <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
     </a>
-    <a href="URL-a-tu-perfil-de-twitter" target="_blank">
+    <a href="URL-to-your-twitter-profile" target="_blank">
         <img src="https://img.icons8.com/fluency/48/000000/twitter-squared.png" alt="Twitter" />
     </a>
-    <a href="mailto:tu-correo@ejemplo.com" target="_blank">
+    <a href="mailto:your-email@example.com" target="_blank">
         <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="Email" />
     </a>
 </p>
 
 <br>
 
-## Tecnologías y Herramientas 🧑‍💻 :
+## Technologies & Tools 🧑‍💻 :
 
 <br>
-<h3 align="left">Lenguajes y plataformas:</h3>
+<h3 align="left">Languages and Platforms:</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -64,7 +64,7 @@
     </a>
 </p>
 
-<h3 align="left">Herramientas de datos y DevOps:</h3>
+<h3 align="left">Data & DevOps Tools:</h3>
 <p align="left">
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
@@ -94,17 +94,17 @@
 
 <br>
 
-## Estadísticas de GitHub 📈 :
+## GitHub Stats 📈 :
 
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Isai&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Isai GitHub stats](https://github-readme-stats.vercel.app/api?username=Isai&theme=algolia)](https://github.com/Isai/github-readme-stats) 
+[![Isai GitHub stats](https://github-readme-stats.vercel.app/api?username=Isai&theme=algolia)](https://github.com/Isai/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isai&theme=algolia)](https://github.com/Isai/github-readme-stats)
 
 <br>
 
-## Trofeos de GitHub 🏆 :
+## GitHub Trophies 🏆 :
 
 <br>
 
@@ -112,7 +112,7 @@
 
 <br>
 
-## Gráfico de Actividad 📊 :
+## Activity Graph 📊 :
 
 <br>
 
@@ -120,4 +120,4 @@
 
 ---
 
-Última edición: 21/08/2025
+Last edited on: 08/21/2025
