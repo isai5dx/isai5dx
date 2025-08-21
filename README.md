@@ -3,7 +3,7 @@
 
 <p>- 🔭 I'm currently working on <b>Data Science projects</b>, specializing in orchestrating AI algorithms and leveraging the power of cloud-based tools.</p>
 
-<p>- 🌱 I'm always expanding my toolkit and am currently diving deeper into <b>C++, Java, and SAS</b>.</p>
+<p>- 🌱 I'm always expanding my toolkit and am currently diving deeper into <b>Python, C++, Java, and SAS</b>.</p>
 
 <p>- 👯 I'm looking to collaborate with fellow <b>Data Scientists</b> on projects that involve model analysis, implementation, and optimization.</p>
 
